@@ -2,8 +2,8 @@ import { useEffect, useState } from 'react'
 import Aos from 'aos'
 import 'aos/dist/aos.css';
 
-import Header from './componetns/header'
-import Hero from './componetns/Hero'
+import Header from './components/header'
+import Hero from './components/Hero'
 
 function App() {
   const [mouse, setMouse] = useState({ x: 0, y: 0 });
