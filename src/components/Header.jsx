@@ -1,5 +1,4 @@
 import React from "react";
-import { FiAlignJustify } from "react-icons/fi";
 import 'boxicons/css/boxicons.min.css';
 const Header = () => {
   const toggleMenu = () => {

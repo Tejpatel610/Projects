@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import Aos from 'aos'
 import 'aos/dist/aos.css';
 
-import Header from './components/header'
+import Header from './components/Header'
 import Hero from './components/Hero'
 
 function App() {
