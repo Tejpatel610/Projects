@@ -33,7 +33,7 @@ const Header = () => {
      data-aos-easing="linear"
      data-aos-duration="2000"
           className=" text-base tracking-wider transition-colors duration-500 hover:text-gray-300 z-50 "
-          href="tejpatel.xyz"
+          href="https://www.tejpatel.xyz"
         >
           PORTFOLIO
         </a>
@@ -67,7 +67,7 @@ const Header = () => {
         </a>
         <a
           className=" text-base tracking-wider transition-colors duration-500 hover:text-gray-300 z-50 "
-          href="tejpatel.xyz"
+          href="https://www.tejpatel.xyz"
         >
           PORTFOLIO WEBSITE
         </a>
