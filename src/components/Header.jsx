@@ -61,7 +61,7 @@ const Header = () => {
         <nav className="flex flex-col gap-6 items-center ">
           <a
           className=" text-base tracking-wider transition-colors duration-500 hover:text-gray-300 z-50 "
-          href="linkedin.com/in/pateltejkirtibhai/"
+          href="https://www.linkedin.com/in/pateltejkirtibhai/"
         >
           ABOUT
         </a>
